@@ -1,9 +1,4 @@
 
----
-
-# 📄 architecture.md
-
-```markdown
 # System Architecture
 
 ## Overview
