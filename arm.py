@@ -16,7 +16,7 @@ class Arm():
         # diferentes de motores
         
         
-    def _interpolate(self, angles: List, steps, delay): # Adicionar , simultaneous=True
+    def _interpolate(self, angles, steps, delay): # Adicionar , simultaneous=True
         current_angles = [servo.angle for servo in self.servos]
         target_angles = angles
         
