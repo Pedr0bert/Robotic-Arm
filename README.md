@@ -64,3 +64,10 @@ angles = [180, 100, 150, 170]
 arm.move_to(angles, steps=100, delay=0.01)
 
 arm.home()
+``` 
+
+## Demo
+
+![Clios Demo](assets/arm_moving.gif)
+![Clios Demo](assets/full_move_arm.gif)
+
