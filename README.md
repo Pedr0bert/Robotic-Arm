@@ -24,7 +24,7 @@ The goal of this project is to explore embedded systems control, modular softwar
 
 - Raspberry Pi Pico W (MicroPython firmware)
 - 4x Servo Motors (50Hz PWM)
-- External 5V Power Supply (Recommended: ≥ 3A)
+- External 5V Power Supply (Recommended: ≥ 3A). Note: I am using a 5V/2A Power Supply.
 - Common ground between Raspberry Pi Pico W and servo power
 
 ⚠️ Servos should NOT be powered directly from the Raspberry Pi Pico W 3.3 pin.
